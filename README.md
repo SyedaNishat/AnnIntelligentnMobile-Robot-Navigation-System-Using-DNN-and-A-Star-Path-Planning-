@@ -16,25 +16,26 @@ The framework is implemented using a Car-3 differential-drive robotic platform i
 - Dynamic obstacle handling
 - Low-cost autonomous navigation framework
 
-System Architecture
+**System Architecture**
 
 The navigation framework consists of two major processing layers:
 
-1. Android Edge-AI Layer
+**1. Android Edge-AI Layer**
 
 Responsible for:
 
-Voice/input command processing
-Grid-map generation
-A* path planning
-DNN-based obstacle classification
-Navigation decision making
-2. Embedded Robot Layer
+- Voice/input command processing
+- Grid-map generation
+- A* path planning
+- DNN-based obstacle classification
+- Navigation decision making
+  
+**2. Embedded Robot Layer**
 
 Responsible for:
 
-Motor control
-Sensor acquisition
-Bluetooth communication
-Motion execution
-Real-time telemetry feedback
+- Motor control
+- Sensor acquisition
+- Bluetooth communication
+- Motion execution
+- Real-time telemetry feedback
