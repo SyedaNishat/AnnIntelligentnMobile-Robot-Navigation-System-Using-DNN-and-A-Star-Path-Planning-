@@ -39,3 +39,13 @@ Responsible for:
 - Bluetooth communication
 - Motion execution
 - Real-time telemetry feedback
+
+**Hardware Components**
+Component	Description
+Arduino Nano	Main embedded controller
+HC-SR04 Sensors	Obstacle distance measurement
+HC-05 Module	Bluetooth communication
+Differential Drive Motors	Robot locomotion
+Motor Driver	Motor actuation control
+Android Smartphone	Edge-AI processing platform
+Car-3 Chassis	Mobile robot base
