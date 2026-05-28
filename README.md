@@ -50,3 +50,13 @@ Responsible for:
 | Motor Driver | Motor actuation control |
 | Android Smartphone | Edge-AI processing platform |
 | Car-3 Chassis | Mobile robot base |
+
+**Software Tools and Technologies**
+- Arduino IDE
+- Android Studio
+- TensorFlow Lite
+- Python
+- C/C++
+- Java/Kotlin
+- A* Path Planning Algorithm
+- Deep Neural Networks (DNN)
